@@ -1,0 +1,15 @@
+{
+    "name": "m/z",
+    "autoload": {
+        "psr-4": {
+            "M\\Z\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcuszz",
+            "email": "marcuzcalaguas@gmail.com"
+        }
+    ],
+    "require": {}
+}
